@@ -1,0 +1,5 @@
+{
+  "name": "Music School Manager",
+  "description": "Um sistema completo para gerenciar escolas de música, incluindo alunos, professores, aulas e pagamentos.",
+  "requestFramePermissions": []
+}
